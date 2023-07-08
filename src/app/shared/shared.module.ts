@@ -11,7 +11,7 @@ import { CustomLabelDirective } from './directives/custom-label.directive';
   imports: [
     CommonModule
   ],
-  exports:[
+  exports: [
     CustomLabelDirective
   ]
 })
